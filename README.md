@@ -1,3 +1,5 @@
+Owner of this repository :- https://github.com/avatorl/Deneb-Vega-Templates.git
+
 # Power BI Deneb Vega Templates by Andrzej Leszkiewicz
 
 Data visualization templates for Deneb, a custom visual for Power BI. The templates are examples of Vega (not Vega-Lite) data visualizations that can be used in Deneb as is or as a starting point for developing more advanced custom data visualizations.
